@@ -18,7 +18,7 @@ Para ejecutar la aplicación localmente:
 1. Clona el repositorio: `git clone https://github.com/tu_usuario/tu_proyecto.git`
 2. Importa el proyecto en tu IDE preferido.
 3. Configura la base de datos en `application.properties`.
-4. Ejecuta la aplicación desde tu IDE o usando Maven: `mvn spring-boot:run`
+4. Ejecuta la aplicación desde tu IDE 
 
 ## Uso
 
